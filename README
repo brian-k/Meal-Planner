@@ -1,0 +1,16 @@
+Meal Planner is a project to help people plan their meals.  
+Additionally, Meal Planner needs a better name.
+
+There are three parts to Meal Planner:
+
+ * a recipe database
+ * a calendar that organizes meals
+ * a grocery list
+
+The idea is simply a drag-and-drop interface (like you can move around 
+widgets in iGoogle) for recipes onto a calendar.  Recipes are in a 
+list on the left-hand side.  Calendar is in the center.  Grocery list
+is on the right-hand side.
+
+The model is incomplete, and still under development.  Any help 
+developing or designing would be greatly appreciated.
