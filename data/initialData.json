@@ -1,0 +1,23 @@
+[
+    {
+        "pk":1,
+        "model":"dish.label",
+        "fields":{
+            "name":"Paleo"
+        }
+    },
+    {
+        "pk":2,
+        "model":"dish.label",
+        "fields":{
+            "name":"Gluten Free"
+        }
+    },
+    {
+        "pk":1,
+        "model":"dish.ingredient",
+        "fields":{
+            "name":"Chicken, breast, no skin, baked"
+        }
+    }
+]
